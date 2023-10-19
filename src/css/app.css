@@ -10,4 +10,10 @@
     padding-top: 3rem;
     padding-left: 2.5rem;
 }
-
+.foot{
+    background-color: #d0e7d2;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
